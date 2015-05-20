@@ -1,0 +1,4 @@
+dev:
+  build: ./dev
+  volumes:
+  - ./code:/root/code
